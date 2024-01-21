@@ -18,3 +18,9 @@ Every 5 points on map respown one green dot.
 This is demo and have too many problems to be fully functional.
 Game was made months ago and i can't read this mess anymore.
 Should be lesson to make more documentation or create simple maps to achive goals.
+
+-------------------------------
+
+Instalation
+
+Please open 7zip files into same folder to play this game.
