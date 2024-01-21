@@ -16,4 +16,5 @@ White - Normal Dot that has 3 health and grand to you 1 point.
 Every 5 points on map respown one green dot.
 
 This is demo and have too many problems to be fully functional.
-
+Game was made months ago and i can't read this mess anymore.
+Should be lesson to make more documentation or create simple maps to achive goals.
