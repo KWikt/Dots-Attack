@@ -17,6 +17,7 @@ Every 5 points on map respown one green dot.
 
 -------------------------------
 Reset and new game doesn't work - game need to be restared to play
+
 Don't have quit game or pause on esc - you need to alt + f4
 
 This is demo and have too many problems to be fully functional.
