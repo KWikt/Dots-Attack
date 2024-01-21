@@ -29,3 +29,5 @@ Should be lesson to make more documentation or create simple maps to achive goal
 Instalation
 
 Please open 7zip files into same folder to play this game.
+![image](https://github.com/KWikt/Dots-Attack/assets/117933486/167d5a99-1d40-428a-8fec-b470da0e0be6)
+
